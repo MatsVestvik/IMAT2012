@@ -1,0 +1,7 @@
+# Create simple aliases
+git config --global alias.cam "commit -am"
+git config --global alias.save "commit -am"
+git config --global alias.snap "commit -am"
+
+# Or for staging everything (including new files):
+git config --global alias.all "!git add -A && git commit"   
