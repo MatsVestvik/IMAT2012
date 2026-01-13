@@ -1,7 +1,7 @@
 """
 Quick Matplotlib helpers for common 3D algebra visuals.
 
-Run directly: python visualize_3d_algebra.py
+Run directly: python visualize_2d_algebra.py
 Or import functions into a notebook for custom visuals.
 """
 
